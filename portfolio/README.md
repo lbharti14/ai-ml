@@ -1,4 +1,4 @@
-# 🎓 AI/ML Capstone Portfolio –  PGP-AIML in Business Applications :TexasMcCombs School[The University of Texas at Austin)(via Great Learning)
+## 🎓 AI/ML Capstone Portfolio –  PGP-AIML in Business Applications :TexasMcCombs School[The University of Texas at Austin)(via Great Learning)
 
 Welcome to my project portfolio developed as part of the  
 **Post Graduate Program in Artificial Intelligence & Machine Learning : Business Applications ** offered by  
